@@ -1,0 +1,53 @@
+*{
+	font-family: 'Slabo 27px', serif;
+	margin: 0;
+	padding: 0;
+
+}
+
+.head{
+	font-family: 'Smythe', cursive;
+	background-color: #0869A6;
+    height: 80px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	padding-top: 10px;
+}
+
+.menu a{
+	color: #000;
+}
+
+.menu{
+font-family: 'Smythe', cursive;
+text-align: left;
+width: 10%;
+font-size: 30px;
+margin: 10px 0 0 10px;
+
+}
+
+
+.menu div{	
+	transition: 0.5s box-shadow;
+}
+
+.menu div:hover {
+	background-color: #0869A6;
+	box-shadow: 0px 0px 40px #000;
+}
+
+.conteudo{
+	margin: 30px 250px 30px 250px;
+
+}
+
+.footer {
+	background-color: #0869A6;
+	text-align: center;
+	padding-top: 30px;
+	height: 150px;
+	bottom: 0px;
+
+}
